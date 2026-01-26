@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 ✍️ Hello Everyone! I'm Sun Duo, a **senior undergraduate**, majoring in ***Computer Science***, attending college at **Harbin Institiude of Technology, Shenzhen**.
 
-✍️ 大家伙好呀！俺叫孙铎，是一名**大四混混**，就读于**深圳平山村男子职业技术学校**，专业是***修电脑***
+✍️ 大家伙好呀！俺叫孙铎，是一名**研二混子**，就读于**深圳平山村男子职业技术学校**，专业是***修电脑***
 
 ---
 
